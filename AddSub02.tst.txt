@@ -1,0 +1,6 @@
+
+load AddSub.asm,
+set R1 20,
+set R2 15,
+set R3 5,
+output R0, 30
